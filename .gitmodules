@@ -1,6 +1,8 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/LucasLobell/agentsAskAi-server.git
+	branch = main
 [submodule "web"]
 	path = web
 	url = https://github.com/LucasLobell/agentsAskAi-web.git
+	branch = main
